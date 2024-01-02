@@ -1,0 +1,22 @@
+h1 {
+    text-align: center;
+    font-size: 2em;
+  }
+  p {
+    text-align: center;
+  }
+  .card 
+  { padding: 15px; }
+  
+  title{
+    font: fallback;
+    size: 0cqmax;
+    
+  }
+  .navbar {
+    z-index: 1000; 
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
